@@ -7,7 +7,7 @@
 
 ## Status
 
- This project is **not fully working** yet. The webhook registration and data handling parts are implemented, but the full integration is incomplete due to limited time and testing scope.
+This project is a work in progress , and is not complete. It currently includes only the QualifierApplication.java and pom.xml files with partial webhook registration and data handling implemented. Full integration and testing are pending.
 
 
 ---
